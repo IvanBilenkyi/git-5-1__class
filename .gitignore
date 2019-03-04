@@ -1,3 +1,6 @@
 /calculator/calculator-common/target
 /calculator/calculator-import/target
 /calculator/calculator-testing/target
+/calculator/calculator-common/.idea
+/calculator/calculator-import
+/calculator/calculator-testing
